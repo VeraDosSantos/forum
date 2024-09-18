@@ -1,3 +1,12 @@
+.myBody{
+    background-image: url(../img/bg.jpeg);
+    min-height: 820px;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #3f0060;
+    text-align: center;
+    padding: 20px;
+}
 .imgLogo{
     width: 60px;
 }

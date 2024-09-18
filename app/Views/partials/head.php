@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="/public/css/style.css">
 </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-light text-white mb-3">
+<nav class="navbar navbar-expand-lg navbar-light text-white pb-3">
     <div class="container-fluid">
         <a class="navbar-brand mt-2 mt-lg-0 text-white" href="/">
             <img src="/public/img/Icon.png" alt="Logo" class="imgLogo">
@@ -19,3 +19,4 @@
         </ul>
     </div>
 </nav>
+<div class="myBody">
