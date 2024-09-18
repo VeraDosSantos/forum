@@ -1,4 +1,6 @@
 <?php
+require_once (__DIR__ . "/function.php");
+require_once (__DIR__ . "/db.php");
 
 // Récupération de l'URI actuelle de la requête utilisateur
 // Cette partie extrait uniquement le chemin de l'URL (sans les paramètres GET ou les fragments)
