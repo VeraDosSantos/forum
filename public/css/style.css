@@ -13,3 +13,7 @@
 nav, .myFooter{
     background-color: rgba(0, 168, 129, 0.7);
 }
+.colorPurpel{
+    background-color: #3f0060;
+    color: white;
+}

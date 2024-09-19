@@ -16,6 +16,9 @@
             Royaume des Paillettes
         </a>
         <ul class="navbar-nav me-auto mb-2 mb-lg-0 text-white">
+            <li class="nav-item">
+                <a class="nav-link text-white" href="/register"><i class="fa-solid fa-circle-plus"></i> Inscription</a>
+            </li>
         </ul>
     </div>
 </nav>
