@@ -13,11 +13,17 @@
     <div class="container-fluid">
         <a class="navbar-brand mt-2 mt-lg-0 text-white" href="/">
             <img src="/public/img/Icon.png" alt="Logo" class="imgLogo">
-            Royaume des Paillettes
+            Forum
         </a>
         <ul class="navbar-nav me-auto mb-2 mb-lg-0 text-white">
             <li class="nav-item">
                 <a class="nav-link text-white" href="/register"><i class="fa-solid fa-circle-plus"></i> Inscription</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-white" href="/connection"><i class="fa-solid fa-circle-plus"></i> Connexion</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-white" href="/logout"><i class="fa-solid fa-circle-plus"></i> Deconnexion</a>
             </li>
         </ul>
     </div>
