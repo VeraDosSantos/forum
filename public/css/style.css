@@ -17,3 +17,8 @@ nav, .myFooter{
     background-color: #3f0060;
     color: white;
 }
+
+.colorPink{
+    background-color: rgb(238, 133, 187);
+    color: rgb(23, 23, 23);
+}
